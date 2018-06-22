@@ -1,0 +1,9 @@
+Source: cisst
+Version: 1.0.10
+Build-Depends: libxml2, zlib
+Description: JHU ERC CISST Library
+
+Feature: qt
+Build-Depends: qt5
+Description: Qt5 support for cisst
+
