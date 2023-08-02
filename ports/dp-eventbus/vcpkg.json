@@ -1,0 +1,12 @@
+{
+  "name": "dp-eventbus",
+  "version": "0.10.2",
+  "homepage": "https://developerpaul123.github.io/eventbus/",
+  "description": "Header only event bus library written in modern C++17",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    }
+  ]
+}
